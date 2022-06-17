@@ -3,7 +3,7 @@
 
  
  ## How to Start the game? 
-    -> Download the clone 
+    -> Download the zip. 
     -> Click the "INDEX" html file to play the game. 
  ## How it Works? 
  ### When the player rolls the dice by clicking the button "ROLL DICE" 
