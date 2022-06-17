@@ -1,7 +1,10 @@
-# Pig-Game
+# Pig-Game, a two player dice game, 
 ![pig-game-flowchart](https://user-images.githubusercontent.com/88484107/174255322-6fe71c7f-6528-41a9-a080-bbead17f57e4.png)
+
  
- A Two Player Dice Game, 
+ ## How to Start the game? 
+    -> Download the clone 
+    -> Click the "INDEX" html file to play the game. 
  ## How it Works? 
  ### When the player rolls the dice by clicking the button "ROLL DICE" 
     -> It Genrates a random number between 1 to 6. 
@@ -16,4 +19,5 @@
     ->All the Scores are set back to 0 again. 
     ->The game restarts from the Player 1. 
     
+![2022-06-17 (1)](https://user-images.githubusercontent.com/88484107/174260782-bda20959-fc53-4dbe-a98a-95f02b819b09.png)
  
